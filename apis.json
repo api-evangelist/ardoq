@@ -1,0 +1,82 @@
+{
+    "name": "Ardoq",
+    "description": "Ardoq provides SaaS alternatives to enterprise architecture and software documentation. Our model based system focuses on automation, visualisation and democratisation of documentation.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18595-ardoq.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "visualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ardoq\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ardoq",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18595-ardoq.jpg",
+            "humanURL": "http:\/\/ardoq.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ardoq-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/ardoq.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/ardoq.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ardoq"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/ardoq.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "ian@ardoq.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@ardoq.com"
+        },
+        {
+            "type": "Email",
+            "url": "tos@ardoq.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@ardoq.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ardoq"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/ardoq.com\/plans\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ardoqcom"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/ardoq.com\/"
+        }
+    ]
+}
