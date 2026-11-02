@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ardoq is a company surfaced via the API Evangelist harvest backlog (source: apisio-search-qc-2026-10-24) and added to the network as a stub for full-pipeline profiling.
-- https://www.ardoq.com
+Ardoq provides an intelligent enterprise architecture platform that streamlines IT portfolios, reduces technical debt, and manages risk through real-time insights and AI-enhanced modeling. The platform enables dynamic, data-driven architecture, integrates with numerous tools via APIs, and supports collaboration across people, processes, and technology.
+
+**Areas:** Enterprise Architecture · SaaS · Platform · Integration · API
+
+## Ardoq on APIs.io
+
+Everything profiled for Ardoq is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ardoq/](https://apis.io/providers/ardoq/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Ardoq API](https://apis.io/apis/ardoq/ardoq-api/) — Explore the comprehensive documentation for Ardoq developers. Learn how to use the Ardoq API and integrate with your systems.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ardoq Authentication](https://apis.io/security/ardoq/ardoq-authentication/)
+- [Ardoq Domain Security](https://apis.io/security/ardoq/ardoq-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Ardoq Scopes](https://apis.io/scopes/ardoq/ardoq-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ardoq Plans Pricing](https://apis.io/plans/ardoq/ardoq-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Ardoq Rate Limits](https://apis.io/rate-limits/ardoq/ardoq-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.ardoq.com)
+- [Documentation](https://help.ardoq.com/)
+- [Getting started](https://developer.ardoq.com/)
+- [Pricing](https://www.ardoq.com/plans)
+- [Support](https://help.ardoq.com/en/)
+- [Blog](https://www.ardoq.com/blog)
+- [Terms of service](https://www.ardoq.com/terms)
+- [Privacy policy](https://www.ardoq.com/privacy)
+- [GitHub](https://github.com/ardoq)
+- [Status](https://status.ardoq.com/)
+
+## API Evangelist rating
+
+**Kin Score 25.5** — emerging · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 31.6 |
+
+**Agent readiness 27.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ardoq/](https://apis.io/providers/ardoq/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ardoq: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ardoq/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
